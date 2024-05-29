@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meteorids
-- :sunrise: I’m interested in physics and math (radiative transfer)
-- :telescope: I’m currently a phd student, Research and a Teaching Assistant
-- :earth_americas: I’m looking to collaborate on radiative transfer, remote sensing and aerosols. 
+- :sunrise: I’m interested in Radiative Transfer.
+- :telescope: I’m currently working on a radiation scheme for forecasting.
+- :earth_americas: I’m looking to collaborate on radiative transfer. 
 - :globe_with_meridians: Check out my website..
 
 ### My main profile is:
