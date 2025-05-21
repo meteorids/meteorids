@@ -12,13 +12,13 @@
 more here: https://github.com/anuraghazra/github-readme-stats 
 --->
 
-
+<!--- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorids&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-![Fortran](https://img.shields.io/badge/Fortran-15%15-orange)
-![Python](https://img.shields.io/badge/Python-60%60-blue)
-![Shell](https://img.shields.io/badge/Shell-10%10-green)
-![Jupyter](https://img.shields.io/badge/Notebook-50%50-red)
+--->
+![Fortran](https://img.shields.io/badge/Fortran-15%25-orange)
+![Python](https://img.shields.io/badge/Python-60%25-blue)
+![Shell](https://img.shields.io/badge/Shell-10%25-green)
+![Jupyter](https://img.shields.io/badge/Notebook-50%25-red)
 
 
 
