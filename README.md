@@ -15,9 +15,21 @@ more here: https://github.com/anuraghazra/github-readme-stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorids&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Meteorids's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteorids&show_icons=true&theme=gruvbox&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+import matplotlib.pyplot as plt
 
-![Metrics](https://raw.githubusercontent.com/meteorids/meteorids/main/github-metrics.svg)
+# Custom language distribution
+languages = ['Fortran', 'Python', 'Shell', 'Jupyter Notebook']
+percentages = [40, 30, 20, 10]
+colors = ['#f37726', '#3572A5', '#89e051', '#DA5B0B']
+
+# Plot
+fig, ax = plt.subplots()
+ax.pie(percentages, labels=languages, colors=colors, startangle=90, counterclock=False, autopct='%1.0f%%')
+ax.set_title('Custom Language Usage')
+plt.axis('equal')
+plt.tight_layout()
+plt.savefig("custom_lang_pie.png", dpi=300)
+plt.show()
 
 
 
