@@ -15,6 +15,11 @@ more here: https://github.com/anuraghazra/github-readme-stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorids&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Meteorids's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteorids&show_icons=true&theme=gruvbox&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://raw.githubusercontent.com/meteorids/meteorids/main/github-metrics.svg)
+
+
 
 <!---
 meteorids/meteorids is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
