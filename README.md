@@ -5,7 +5,7 @@
 - :globe_with_meridians: Check out my website: [https://meteorids.github.io](https://meteorids.github.io)
 
 ### My main profile is:
- > ####  Radiative Transfer, Aerosols, Ozone, Instrumentation.
+ > ####  Radiative Transfer, Machine Learning, Aerosols, Ozone, Instrumentation.
 
 
 <!--- my enbeded card
