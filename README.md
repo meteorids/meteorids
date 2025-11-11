@@ -2,7 +2,7 @@
 - :sunrise: I’m interested in Radiative Transfer.
 - :telescope: I’m currently working on a radiation scheme for forecasting.
 - :earth_americas: I’m looking to collaborate on radiative transfer. 
-- :globe_with_meridians: Check out my website: [https://meteorids.github.io](https://meteorids.github.io)
+- :globe_with_meridians: Check out my website: [https://meteorids.github.io](https://meteorid.github.io)
 
 ### My main profile is:
  > ####  Radiative Transfer, Machine Learning, Aerosols, Ozone, Instrumentation.
